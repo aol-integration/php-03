@@ -7,7 +7,7 @@ This example demonstrate how to call the API along with the creation of Timestam
 > [!IMPORTANT]
 > Before running this code, replace the value of variable **$apiToken** and **$signatureSecret** on the **conf.php** file with Your credential.
 
-> [!IMPORTANT]
+> [!WARNING]
 > This example use default host declared on file **conf.php**, You may need to replace the value of variable **$host** if You are hosted on another host. You can see Your database host address by executing the api-token.php file.
 
 > [!NOTE]
