@@ -47,5 +47,5 @@
     $response = file_get_contents($url, false, $context);
 
     // Output
-	echo $response;
+    echo $response;
 ?>
